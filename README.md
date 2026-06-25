@@ -1,12 +1,12 @@
-# Hola 👋 Soy Diego
+# Hi 👋 I'm Diego
 
-Estudio simultáneamente Matemáticas Aplicadas y Computación, y Ciencia de Datos en la UNAM. Me interesa especialmente construir sistemas donde el análisis matemático y la ingeniería se conviertan en tecnología útil para las personas.
+I'm simultaneously pursuing degrees in Applied Mathematics and Computing, and Data Science at UNAM (National Autonomous University of Mexico). I'm especially interested in building systems where mathematical analysis and engineering become useful technology for people.
 
-He trabajado en proyectos relacionados con procesamiento distribuido de datos, visión computacional, desarrollo iOS y despliegue de modelos de machine learning en entornos reales. Actualmente estoy enfocado en **MLOps**, infraestructura para IA y sistemas escalables.
+I've worked on projects involving distributed data processing, computer vision, iOS development, and machine learning model deployment in real-world environments. I'm currently focused on **MLOps**, AI infrastructure, and scalable systems.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
 ### Data & ML
 `Python` `PySpark` `Apache Spark` `Scikit-learn` `Pandas` `SQL` `PostgreSQL` `Machine Learning` `Computer Vision`
@@ -17,24 +17,24 @@ He trabajado en proyectos relacionados con procesamiento distribuido de datos, v
 ### Web & Mobile
 `TypeScript` `React Native` `Next.js` `Expo`
 
-### Infraestructura & Herramientas
+### Infrastructure & Tools
 `Docker` `Git` `Firebase` `Google BigQuery` `Supabase` `n8n` `Hugging Face`
 
 ---
 
-## 🏆 Experiencia e intereses
+## 🏆 Experience & Interests
 
 - Machine Learning & MLOps
-- Ingeniería de Datos
+- Data Engineering
 - Human-Centered AI (HCAI)
-- Sistemas Escalables
-- Visión Computacional
-- Desarrollo iOS
-- Infraestructura para IA
+- Scalable Systems
+- Computer Vision
+- iOS Development
+- AI Infrastructure
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/rafael-moctezuma">
